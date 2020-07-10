@@ -1,4 +1,3 @@
-package week1;
 /* Successor with delete. 
  * Given a set of N integers S={0,1,...,N?1} and a sequence of requests of the following form:
  *  - Remove x from S
