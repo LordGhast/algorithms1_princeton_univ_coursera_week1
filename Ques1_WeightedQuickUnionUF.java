@@ -1,5 +1,3 @@
-package week1;
-
 /*
  Social network connectivity. 
  Given a social network containing nn members and
